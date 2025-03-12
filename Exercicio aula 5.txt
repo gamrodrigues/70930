@@ -1,0 +1,7 @@
+1. Escreva uma função em Python que recebe uma frase e, em seguida, exibe cada palavra e seu número de caracteres.
+
+2. Escreva uma função que dado um valor n calcula o fatorial de n.
+
+3. Escreva uma função que retorne True caso um número seja primo (divisivel somente por 1 e por ele mesmo) ou False caso não seja primo.
+
+4. Escreva uma função que leia dois números e encontre os números primos entre eles incluindo os dois números.

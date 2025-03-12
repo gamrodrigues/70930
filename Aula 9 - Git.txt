@@ -1,0 +1,19 @@
+Instalar o git no computador
+https://git-scm.com/downloads
+
+Verificar a instalação no PowerShell com git --version
+
+Instalar o git no visual studio pela extensão github codespaces
+
+Ir na pessoinha no cantinho da tela e logar com o GIT
+
+Ir no prompt e digitar
+git config --global user.email y*********@gmail.com
+git config --global user.name Y*********
+
+https://code.visualstudio.com/docs/sourcecontrol/overview
+
+
+Copie a URL do repositório no GitHub (exemplo: https://github.com/usuario/repo.git).
+No VS Code, pressione Ctrl + Shift + P e digite:Git: Clone
+

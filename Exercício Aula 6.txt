@@ -1,0 +1,4 @@
+1. Crie uma classe Retangulo que tenha os atributos base e altura e os métodos area() e perimetro(). Crie um objeto e teste os métodos. 
+Obs.: área=base*altura, perimetro=2*(base+altura)
+
+2. Crie uma classe Conta que tenha os atributos saldo e titular e os métodos depositar() e sacar(). Em seguida, instancie essa classe com um saldo inicial e realize algumas operações de depósito e saque para verificar se o saldo está sendo atualizado corretamente.
